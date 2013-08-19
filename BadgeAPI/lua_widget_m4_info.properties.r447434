@@ -1,0 +1,20 @@
+#This file contains the lua m4Constants, the widgetQualifying ids and the type of the widget
+#Tue Jan 22 13:41:52 IST 2013
+~|~frmBadge.btnBadge=button
+~|~frmBadge=form2
+~|~hbox1928283451932.image2121043302122534=image2
+~|~hdrOne=header
+~|~frmFooter=footer
+~|~hbox121043302122533.image2121043302122534=image2
+~|~frmBadge.label1927359800104093=label
+~|~frmIntro.btnContinue=button
+~|~frmIntro.label1928283451933=label
+~|~hbox192735980024418.image2192735980024419=image2
+~|~hbox192735980024418=box
+~|~frmIntro=form2
+~|~hbox121043302122533=box
+~|~hbox1928283451930.image2192735980024419=image2
+~|~hbox1928283451932=box
+~|~hbox1928283451931=box
+~|~hbox1180105789135330=box
+~|~hbox1928283451930=box

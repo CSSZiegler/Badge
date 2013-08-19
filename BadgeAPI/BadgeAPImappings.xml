@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="BadgeAPI" id="BadgeAPI">
+    <container type="form" id="frmBadge" displayname="Form">
+        <component type="textbox2" id="tbxSetBadge" displayname="TextBox2"/>
+    </container>
+    <container type="form" id="frmIntro" displayname="Form"/>
+    <container type="form" id="frmBadge" displayname="Form">
+        <component type="textbox2" id="tbxSetBadge" displayname="TextBox2"/>
+    </container>
+    <container type="form" id="frmIntro" displayname="Form"/>
+    <globalsequences/>
+    <skins/>
+</application>

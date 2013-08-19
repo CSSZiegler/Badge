@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="AvinBadgeDemo" id="AvinBadgeDemo">
+    <container type="dialog" id="hdrOne" displayname="Popup"/>
+    <container type="dialog" id="frmFooter" displayname="Popup"/>
+    <container type="form" id="frmBadge" displayname="Form"/>
+    <container type="form" id="frmBadge" displayname="Form"/>
+    <container type="form" id="frmIntro" displayname="Form"/>
+    <globalsequences/>
+    <skins/>
+</application>
