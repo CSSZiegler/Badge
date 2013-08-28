@@ -42,10 +42,22 @@ function BadgeIncrease( )
 
 function setApplicationBadge()
 {
-	var w = kony.os.toNumber(frmBadge.tbxSetBadge.text);
+	
 	if(kony.os.deviceInfo().name == "iPhone" || kony.os.deviceInfo().name == "iPad")
-		kony.application.setApplicationBadgeValue(w);
+	{
+		var str=frmBadge.tbxSetBadge.text;
+		var symbol=["."];
+		if(kony.string.containsChars(str,symbol))
+		{
+			alert("only counting number is acceptable");
+		}
+		else
+		{	
+			kony.application.setApplicationBadgeValue(kony.os.toNumber(str));
+		}
+	}
 	else
-		alert("Your current platform doesn't support badge on icon.");
+	{
+	alert("Your current platform doesn't support badge on icon.");
+	}
 }
-
