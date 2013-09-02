@@ -1,4 +1,4 @@
-BadgeAPI
+Badge
 ========
 
 This application will showcase the usage of Badge APIs.
