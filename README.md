@@ -11,8 +11,10 @@ This Application will showcase the following usage of Badge APIs
 * Setting Badge value on Application Icon
 
 # Supported platforms:
-* iPhone
-* iPad
-* Android
-* Android tablet
+**Mobile**
+ * Android
+ * iPhone
 
+**Tablet** 
+ * Anroid
+ * iPad
