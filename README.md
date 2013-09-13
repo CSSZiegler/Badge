@@ -16,5 +16,5 @@ This Application will showcase the following usage of Badge APIs
  * iPhone
 
 **Tablet** 
- * Anroid
+ * Android
  * iPad
